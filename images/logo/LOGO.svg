@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 792 612">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #f2bc6c;
+        stroke-linecap: round;
+      }
+
+      .st0, .st1 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .st2 {
+        fill: #f46969;
+        font-family: PMingLiU-ExtB, PMingLiU-ExtB;
+        font-size: 100.7px;
+      }
+
+      .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st4 {
+        fill: #8cc864;
+      }
+
+      .st5 {
+        fill: #c57db5;
+      }
+
+      .st1 {
+        stroke: #67cef6;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="st0" x1="303" y1="346.3" x2="370.1" y2="517.8"/>
+    <line class="st0" x1="437" y1="346.3" x2="370.1" y2="517.8"/>
+  </g>
+  <circle class="st5" cx="370.1" cy="324.3" r="76.5"/>
+  <circle class="st4" cx="370.1" cy="243.1" r="60.9"/>
+  <g class="st3" xlink:href="#path">
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(228.3 198.8) rotate(-46.2)"><tspan x="0" y="0">S</tspan></text>
+      </g>
+    </g>
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(264.7 159.7) rotate(-25.2)"><tspan x="0" y="0">C</tspan></text>
+      </g>
+    </g>
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(322.8 132.1) rotate(-1.1)"><tspan x="0" y="0">O</tspan></text>
+      </g>
+    </g>
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(391.9 131) rotate(23.9)"><tspan x="0" y="0">O</tspan></text>
+      </g>
+    </g>
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(454.1 160.3) rotate(46)"><tspan x="0" y="0">P</tspan></text>
+      </g>
+    </g>
+    <g class="st3">
+      <g class="st3">
+        <text class="st2" transform="translate(491.1 198.6) rotate(65.1)"><tspan x="0" y="0">S</tspan></text>
+      </g>
+    </g>
+  </g>
+  <circle class="st1" cx="373.2" cy="295.1" r="261.9"/>
+</svg>
